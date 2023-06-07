@@ -1,0 +1,13 @@
+{
+    "window.zoomLevel": 0,
+    "python.languageServer": "Pylance",
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    },
+    "python.formatting.provider": "none",
+    // "files.associations": {
+    //     "**/*.html": "html",     
+    //     "**/templates/**/*.html": "django-html",
+    //     "**requirements{/**,*}.{txt,in}": "pip-requirements"
+    // }
+}
